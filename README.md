@@ -1,13 +1,16 @@
 <h1 align="center">Hola 👋, Soy Yessica</h1>
 <h3 align="center">Full Stack Developer || React || Redux || JavaScript || SQL || HTML || CSS || NodeJs || Express || PostgreSql || Sequelize || Git</h3>
 
-- 🔭 **¿Quien soy?** Soy Desarrollador Full Stack con una sólida experiencia en el Back-End, especializada en la creación de bases de datos y rutas. Comencé mi trayectoria este año al inscribirme en el bootcamp de Soy Henry, donde me gradué y adquirí un amplio conocimiento y experiencia en trabajo en equipo.
+<h3 align="center"> 🔭 **¿Quien soy?** </h3>
+- Soy Desarrollador Full Stack con una sólida experiencia en el Back-End, especializada en la creación de bases de datos y rutas. Comencé mi trayectoria este año al inscribirme en el bootcamp de Soy Henry, donde me gradué y adquirí un amplio conocimiento y experiencia en trabajo en equipo.
 
-- ⚡ **Mis Proyectos** En mi perfil de GitHub, encontrarás una amplia variedad de proyectos que he completado en el pasado y en los que actualmente estoy trabajando. Estas experiencias me han proporcionado la oportunidad de aplicar y perfeccionar mis habilidades en el desarrollo web, permitiéndome explorar diversas tecnologías y enfoques
+<h3 align="center"> ⚡ **Mis Proyectos** </h3>
+-  En mi perfil de GitHub, encontrarás una amplia variedad de proyectos que he completado en el pasado y en los que actualmente estoy trabajando. Estas experiencias me han proporcionado la oportunidad de aplicar y perfeccionar mis habilidades en el desarrollo web, permitiéndome explorar diversas tecnologías y enfoques.
 
-- 📫 **Contacto** Si estás interesado en conocer más sobre mis habilidades o consideras que puedo ser un valioso aporte para tu empresa o proyecto, no dudes en contactarme. Puedes hacerlo a través de Linkedin o enviarme un correo electrónico a yessicac187@gmail.com. Estaré encantada de responder a cualquier consulta que tengas. ¡Espero tener la oportunidad de colaborar juntos!
+<h3 align="center">📫 **Contacto** </h3>
+-  Si estás interesado en conocer más sobre mis habilidades o consideras que puedo ser un valioso aporte para tu empresa o proyecto, no dudes en contactarme. Puedes hacerlo a través de Linkedin o enviarme un correo electrónico a yessicac187@gmail.com. Estaré encantada de responder a cualquier consulta que tengas. ¡Espero tener la oportunidad de colaborar juntos!
 
-<h3 align="left"> **Links:** </h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ yessica-castro-cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ yessica-castro-cruz" height="30" width="40" /></a>
 </p>
